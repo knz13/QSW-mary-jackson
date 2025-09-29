@@ -3,9 +3,13 @@ title: Fase 1 - Estabelecimento dos Requisitos de Avaliação
 description: Relatório Fase 1 - Estabelecimento dos requisitos de avaliação do software Pontua segundo ISO/IEC 25040:2011 e ISO/IEC 25010:2011
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/src/assets/V3_C3.png" alt="Logo do Software Pontua" style="max-width: 150px; height: auto;" />
+</div>
+
 # 📊 Análise de Qualidade do Software Pontua
 **Disciplina:** FGA315 – Qualidade de Software 1  
-**Professora:** Cristiane Ramos  
+**Professora:** Cristiane Soares Ramos  
 **Entrega:** EU1 – Fase 1 (até 01/10/2025)  
 
 ---

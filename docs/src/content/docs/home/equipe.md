@@ -3,6 +3,10 @@ title: QSW - Mary Jackson
 description: Equipe responsável pela análise de qualidade do software Pontua.
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/src/assets/V3_C3.png" alt="Logo do Software Pontua" style="max-width: 120px; height: auto;" />
+</div>
+
 ## Integrantes do grupo
 
 <div style="

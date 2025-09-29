@@ -3,6 +3,9 @@ title: Sobre o Projeto QSW - Mary Jackson
 description: Projeto de análise de qualidade do software Pontua, implementando metodologia PBL para educação médica.
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/src/assets/V3_C3.png" alt="Logo do Software Pontua" style="max-width: 200px; height: auto;" />
+</div>
 
 ## 🎯 Visão Geral
 
@@ -21,8 +24,8 @@ O projeto é desenvolvido no contexto da disciplina de **Qualidade de Software**
 
 ## 👨‍🏫 Orientação
 
-- **Docente:** Carla Silva Rocha Aguiar
-- **Código:** MDS01
+- **Docente:** Cristiane Soares Ramos
+- **Código:** FGA0315
 
 ## 📋 Metodologia
 
