@@ -26,7 +26,7 @@ O projeto é desenvolvido no contexto da disciplina de **Qualidade de Software**
 
 ## 📋 Metodologia
 
-A avaliação segue a estrutura definida pela **ISO/IEC 25040:2011**, dividida em 5 fases:
+A avaliação segue a estrutura definida pela **ISO/IEC 25040:2009**, dividida em 5 fases:
 
 1. **Fase 1:** Estabelecimento dos requisitos de avaliação
 2. **Fase 2:** Especificação da avaliação
@@ -38,7 +38,7 @@ A avaliação segue a estrutura definida pela **ISO/IEC 25040:2011**, dividida e
 
 - **Framework:** Astro Starlight (Documentação)
 - **Versionamento:** Git e GitHub
-- **Padrões:** ISO/IEC 25010:2011 e ISO/IEC 25040:2011
+- **Padrões:** ISO/IEC 25010:2011 e ISO/IEC 25040:2009
 - **Ferramentas:** ChatGPT (apoio à documentação)
 
 ## 🎯 Escopo da Avaliação

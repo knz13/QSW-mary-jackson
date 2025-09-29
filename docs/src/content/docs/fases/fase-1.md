@@ -1,6 +1,6 @@
 ---
 title: Fase 1 - Estabelecimento dos Requisitos de Avaliação
-description: Relatório Fase 1 - Estabelecimento dos requisitos de avaliação do software Pontua segundo ISO/IEC 25040:2011
+description: Relatório Fase 1 - Estabelecimento dos requisitos de avaliação do software Pontua segundo ISO/IEC 25040:2011 e ISO/IEC 25010:2011
 ---
 
 # 📊 Análise de Qualidade do Software Pontua
@@ -13,13 +13,13 @@ description: Relatório Fase 1 - Estabelecimento dos requisitos de avaliação d
 ## 1. Propósito da Avaliação e Uso Pretendido
 O presente relatório tem como propósito avaliar a qualidade do **Pontua**, software educacional desenvolvido pela **Crianex**, que implementa a metodologia **PBL (Problem-Based Learning)** para cursos de Medicina e áreas afins.  
 
-A avaliação será utilizada para:  
+A avaliação foi conduzida **com base na ISO/IEC 25040:2011 (processo de avaliação de qualidade)** em conjunto com a **ISO/IEC 25010:2011 (modelo de qualidade de software)**.  
+
+O uso pretendido dos resultados é:  
 - Apoiar **decisões de adoção institucional** em diferentes universidades.  
 - Fornecer subsídios para **priorização de melhorias técnicas** pela equipe de desenvolvimento.  
-- Demonstrar o alinhamento do software com **padrões internacionais de qualidade** (ISO/IEC 25010:2011).  
+- Demonstrar o alinhamento do software com **padrões internacionais de qualidade**.  
 - Contribuir para a **melhoria contínua da experiência do usuário**, tanto para professores quanto para estudantes.  
-
-Dessa forma, os resultados aqui apresentados terão uso **estratégico** (decisões de médio e longo prazo) e **operacional** (ajustes imediatos de funcionalidades e implantação).
 
 ---
 
@@ -31,8 +31,6 @@ Dessa forma, os resultados aqui apresentados terão uso **estratégico** (decis�
   - **Coordenadores:** Buscam padronização institucional e dashboards que apoiem decisões acadêmicas.  
   - **Equipe Crianex (Desenvolvedora):** Requer feedback estruturado para melhorar a confiabilidade, escalabilidade e portabilidade do software.  
   - **Instituições de Ensino:** Pretendem reduzir custos administrativos, padronizar processos avaliativos e garantir conformidade legal (LGPD).  
-
-A análise contempla como cada grupo se beneficia e como pode ser impactado pelas decisões tomadas a partir desta avaliação.
 
 ---
 
@@ -48,7 +46,7 @@ O Pontua é um **software como serviço (SaaS)**, acessível via navegador e res
 ---
 
 ## 4. Modelo de Qualidade
-A avaliação será guiada pela **ISO/IEC 25010:2011**, que define o modelo de qualidade para sistemas e softwares.  
+A avaliação foi guiada pela **ISO/IEC 25010:2011**, utilizada em conjunto com a **ISO/IEC 25040:2011** para estruturar o processo avaliativo.  
 
 ### Características Selecionadas
 - **Adequação Funcional (Functional Suitability)**  
@@ -58,8 +56,6 @@ A avaliação será guiada pela **ISO/IEC 25010:2011**, que define o modelo de q
 - **Portabilidade (Portability)**  
   - **Subcaracterística: Substituibilidade**  
   Avalia a capacidade do Pontua de substituir sistemas anteriores (ex.: planilhas ou softwares distintos), sem grandes impactos ou custos para a instituição.  
-
-Essas escolhas foram realizadas por refletirem as maiores preocupações dos stakeholders: **garantir que o sistema entregue tudo que promete** e que **possa ser adotado facilmente em substituição a práticas existentes**.  
 
 ---
 
@@ -74,12 +70,25 @@ A seleção foi feita com base em três critérios: **impacto para os usuários 
 ## 6. Escopo, Profundidade e Objetos da Avaliação
 - **Escopo Atual:** Avaliação da versão do Pontua utilizada no curso de Medicina da UniRV.  
 - **Profundidade:**  
-  - Completude Funcional → será analisada a cobertura do ciclo avaliativo PBL.  
-  - Substituibilidade → será analisada a facilidade de transição do uso de planilhas para o Pontua.  
+  - *Completude Funcional* → será analisada a cobertura do ciclo avaliativo PBL.  
+  - *Substituibilidade* → será analisada a facilidade de transição do uso de planilhas para o Pontua.  
+- **Objetos de Avaliação:**  
+  - Área do aluno  
+  - Área do professor  
+  - Dashboards administrativos  
 - **Fora de Escopo:**  
   - Questões de desempenho em larga escala.  
   - Internacionalização e suporte multilíngue.  
   - Funcionalidades em estágio de prototipagem.  
+
+### Stringência da Avaliação
+O nível de rigor adotado será **moderado**, adequado para um sistema de apoio educacional institucional, com impacto relevante para a rotina acadêmica mas não de missão crítica.  
+
+### Critérios Preliminares de Decisão
+Os resultados serão julgados com base em:  
+- Cobertura funcional em relação às necessidades do PBL.  
+- Grau de esforço na substituição de métodos anteriores.  
+Esses critérios serão detalhados e quantificados na **Fase 2 – Especificação da Avaliação**.  
 
 ---
 
@@ -92,13 +101,15 @@ O Pontua se conecta com diferentes **Objetivos de Desenvolvimento Sustentável (
 
 ---
 
-## 8. Organização do Relatório
+## 8. Organização do Relatório e Documentação
 O relatório seguirá a sequência definida pela **ISO/IEC 25040:2011**:  
 1. **Fase 1:** Estabelecimento dos requisitos de avaliação (documento atual).  
 2. **Fase 2:** Especificação da avaliação (métricas e critérios).  
 3. **Fase 3:** Projeto da avaliação (plano e cronograma).  
 4. **Fase 4:** Execução da avaliação (coleta de dados e análise).  
 5. **Fase 5:** Conclusão e recomendações finais.  
+
+Toda a documentação seguirá o formato sugerido pela 25040, garantindo **rastreabilidade** entre requisitos, métricas, resultados e decisões.  
 
 ---
 
