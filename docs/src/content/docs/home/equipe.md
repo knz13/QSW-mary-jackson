@@ -12,60 +12,52 @@ description: Equipe responsável pela análise de qualidade do software Pontua.
   margin-top: 30px;
 ">
 
-  <!-- Pessoa 1 -->
-<a href="https://github.com/vitor-trancoso" style="text-decoration: none; color: inherit;">
+  <!-- Daniel Paz dos Passos -->
   <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/179967365?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3>Vitor Marconi</h3>
+    <div style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #4e9375; background: #f0f0f0; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-size: 48px; color: #4e9375;">👨‍💼</div>
+    <h3>Daniel Paz dos Passos</h3>
+    <h7>222021862</h7>
+    <p style="color: #555;">Analista de Qualidade</p>
+  </div>
+
+  <!-- Gabriel Fenelon Rocha Gonçalves -->
+  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
+    <img src="/src/assets/f1-2.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
+    <h3>Gabriel Fenelon Rocha Gonçalves</h3>
+    <h7>211061743</h7>
+    <p style="color: #555;">Analista de Qualidade</p>
+  </div>
+
+  <!-- Guilherme Gusmão Nepomuceno -->
+  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
+    <div style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #4e9375; background: #f0f0f0; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-size: 48px; color: #4e9375;">👨‍🔬</div>
+    <h3>Guilherme Gusmão Nepomuceno</h3>
+    <h7>232021516</h7>
+    <p style="color: #555;">Analista de Qualidade</p>
+  </div>
+
+  <!-- Letícia Assunção Aires Moreira -->
+  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
+    <img src="/src/assets/f1.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
+    <h3>Letícia Assunção Aires Moreira</h3>
+    <h7>190128712</h7>
+    <p style="color: #555;">Analista de Qualidade</p>
+  </div>
+
+  <!-- Otávio Oliveira de Maya Viana -->
+  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
+    <div style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #4e9375; background: #f0f0f0; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-size: 48px; color: #4e9375;">👨‍🎓</div>
+    <h3>Otávio Oliveira de Maya Viana</h3>
+    <h7>211029503</h7>
+    <p style="color: #555;">Analista de Qualidade</p>
+  </div>
+
+  <!-- Vítor Marconi Trancoso Albuquerque -->
+  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
+    <div style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #4e9375; background: #f0f0f0; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-size: 48px; color: #4e9375;">👨‍💼</div>
+    <h3>Vítor Marconi Trancoso Albuquerque</h3>
     <h7>222006202</h7>
-    <p style="color: #555;">Gerente de Projeto | Desenvolvedor Front-end</p>
+    <p style="color: #555;">Analista de Qualidade</p>
   </div>
-</a>
-
-<a href="https://github.com/juliapat18" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/204951019?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3>Julia Patricio</h3>
-    <h7>231027140</h7>
-    <p style="color: #555;">Analista de Requisitos | Desenvolvedor Back-end</p>
-  </div>
-</a>
-
-<a href="https://github.com/lucasbbranco" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/191533937?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3 style="color: #55;">Lucas Branco</h3>
-    <h7 style="color: #55;">222006946</h7>
-    <p style="color: #555;">Desenvolvedor Back-end</p>
-  </div>
-</a>
-
-
-<a href="https://github.com/LORliveira" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/101184699?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3>Lucas Oliveira</h3>
-    <h7>202017684</h7>
-    <p style="color: #555;">Desenvolvedor Front-end</p>
-  </div>
-</a>
-
-<a href="https://github.com/marianagonzaga0" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/193804034?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3>Mariana Ribeiro</h3>
-    <h7>231026993</h7>
-    <p style="color: #555;">Analista de QA | Desenvolvedor Back-end</p>  </div>
-</a>
-
-
-<a href="https://github.com/phmoraiis" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; background: transparent; padding: 20px; border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/101151994?v=4" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #4e9375;">
-    <h3>Philipe Morais</h3>
-    <h7>211062830</h7>
-    <p style="color: #555;">UX/UI | Desenvolvedor Full-stack</p>
-  </div>
-</a>
 
 </div>
