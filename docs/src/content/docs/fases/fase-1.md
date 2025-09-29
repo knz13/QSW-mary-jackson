@@ -70,20 +70,75 @@ A seleção foi feita com base em três critérios: **impacto para os usuários 
 - **Portabilidade / Substituibilidade** → prioridade estratégica por influenciar a decisão de adoção em larga escala por outras instituições.  
 
 ---
-
 ## 6. Escopo, Profundidade e Objetos da Avaliação
 - **Escopo Atual:** Avaliação da versão do Pontua utilizada no curso de Medicina da UniRV.  
 - **Profundidade:**  
   - *Completude Funcional* → será analisada a cobertura do ciclo avaliativo PBL.  
   - *Substituibilidade* → será analisada a facilidade de transição do uso de planilhas para o Pontua.  
-- **Objetos de Avaliação:**  
-  - Área do aluno  
-  - Área do professor  
-  - Dashboards administrativos  
-- **Fora de Escopo:**  
-  - Questões de desempenho em larga escala.  
-  - Internacionalização e suporte multilíngue.  
-  - Funcionalidades em estágio de prototipagem.  
+
+### Objetos de Avaliação (Áreas do Software)
+De acordo com o **mapa de navegação do Pontua**, as áreas e fluxos de uso analisados serão:  
+
+#### 🔹 Aluno
+- **Login e Autenticação**  
+  - Criação de conta  
+  - Tratamento de erros de login  
+
+- **Gestão de Perfil**  
+  - Visualização e edição de dados pessoais  
+
+- **Turmas e Problemas**  
+  - Acesso às turmas cadastradas  
+  - Acompanhamento dos problemas propostos  
+  - **Visualização das notas em cada problema**  
+  - **Visualização de notas em atividades de mapa mental**  
+
+- **Avaliação**  
+  - Dar notas em atividades e problemas PBL  
+  - Visualizar notas recebidas e feedbacks  
+  - **Visualização dos critérios de avaliação** (o que avaliar nos colegas e em si mesmo, assegurando clareza no processo avaliativo)  
+
+---
+
+#### 🔹 Professor
+- **Login e Autenticação**  
+  - Criação de conta  
+  - Tratamento de erros de login  
+
+- **Gestão de Turmas**  
+  - Abrir novas turmas  
+  - Gerir turmas existentes  
+  - **Adição de alunos** às turmas  
+  - **Remoção de alunos** das turmas  
+
+- **Gestão de Problemas**  
+  - Abrir problemas  
+  - Gerir problemas existentes  
+  - **Editar datas de abertura e fechamento dos problemas**  
+  - Definir e ajustar critérios de avaliação  
+
+- **Avaliação**  
+  - Atribuição de notas em atividades  
+  - Visualização das notas aplicadas  
+  - **Visualização de relatórios de avaliação detalhados**, incluindo:  
+    - Quem avaliou quem  
+    - Qual nota foi atribuída  
+    - Transparência e rastreabilidade do processo avaliativo  
+
+- **Relatórios e Desempenho**  
+  - Relatórios de desempenho das turmas  
+  - Exportação de relatórios administrativos em diferentes formatos (ex.: planilhas, PDFs)  
+  - Relatórios de comparação entre alunos e turmas  
+
+- **Gestão de Perfil**  
+  - Visualização e edição de dados pessoais  
+
+---
+
+### Fora de Escopo
+- Questões de desempenho em larga escala.  
+- Internacionalização e suporte multilíngue.  
+- Funcionalidades ainda em prototipagem.  
 
 ### Stringência da Avaliação
 O nível de rigor adotado será **moderado**, adequado para um sistema de apoio educacional institucional, com impacto relevante para a rotina acadêmica mas não de missão crítica.  
