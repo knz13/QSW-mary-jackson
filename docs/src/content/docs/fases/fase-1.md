@@ -118,12 +118,48 @@ Toda a documentação seguirá o formato sugerido pela 25040, garantindo **rastr
 ---
 
 ## 9. Uso de IA
-Foi utilizado **ChatGPT** como ferramenta de apoio para:  
-- Estruturar critérios e seções do relatório.  
-- Melhorar a clareza textual.  
-- Auxiliar na adequação aos requisitos da norma.  
+O desenvolvimento deste relatório contou com o apoio de múltiplas ferramentas de Inteligência Artificial, utilizadas de forma complementar e supervisionada:
 
-A equipe realizou **revisão crítica humana** para ajustar terminologias, garantir adequação ao contexto e validar coerência acadêmica.  
+### Ferramentas de IA Utilizadas:
+
+**🤖 ChatGPT (OpenAI)**
+- Estruturação inicial de critérios e seções do relatório
+- Melhoria da clareza textual e fluidez da linguagem
+- Auxílio na adequação aos requisitos das normas ISO/IEC 25040:2011 e ISO/IEC 25010:2011
+- Geração de conteúdo técnico preliminar
+
+**🖱️ Cursor (AI IDE Assistant)**
+- Edição avançada e refactoring de código da documentação
+- Sugestões contextuais durante a escrita
+- Verificação de consistência e formatação
+- Otimização da estrutura do documento
+
+**🧠 Claude-4 (Anthropic)**
+- Análise crítica e validação de conteúdo técnico
+- Sugestões de melhoria na argumentação acadêmica
+- Verificação de conformidade com padrões internacionais
+- Geração de insights complementares para o relatório
+
+**🚀 Grok (xAI)**
+- Validação de conceitos técnicos e metodológicos
+- Sugestões de referências e bibliografia
+- Análise de viabilidade das recomendações propostas
+
+### Processo de Utilização:
+1. **Geração inicial** com ChatGPT para estrutura base
+2. **Refinamento** com Cursor para edição precisa e contextual
+3. **Validação técnica** com Claude-4 para rigor acadêmico
+4. **Verificação final** com Grok para consistência metodológica
+
+### Supervisão Humana:
+A equipe manteve **supervisão crítica humana rigorosa** em todas as etapas:
+- Ajuste de terminologias específicas do contexto acadêmico brasileiro
+- Validação de adequação aos requisitos curriculares da disciplina
+- Garantia de conformidade com as normas ISO aplicáveis
+- Verificação de coerência entre as diferentes seções do documento
+- Validação final de todos os conceitos técnicos e metodológicos
+
+Essa abordagem multi-modelo permitiu uma produção mais eficiente e qualitativa do relatório, combinando as forças específicas de cada ferramenta de IA com a expertise e julgamento crítico da equipe humana.  
 
 ---
 
