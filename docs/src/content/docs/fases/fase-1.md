@@ -17,7 +17,7 @@ description: Relatório Fase 1 - Estabelecimento dos requisitos de avaliação d
 ## 1. Propósito da Avaliação e Uso Pretendido
 O presente relatório tem como propósito avaliar a qualidade do **Pontua**, software educacional desenvolvido pela **Crianex**, que implementa a metodologia **PBL (Problem-Based Learning)** para cursos de Medicina e áreas afins.  
 
-A avaliação foi conduzida **com base na ISO/IEC 25040:2011 (processo de avaliação de qualidade)** em conjunto com a **ISO/IEC 25010:2011 (modelo de qualidade de software)**.  
+A avaliação foi conduzida **com base na ISO/IEC 25040:2009 (processo de avaliação de qualidade)** em conjunto com a **ISO/IEC 25010:2011 (modelo de qualidade de software)**.  
 
 O uso pretendido dos resultados é:  
 - Apoiar **decisões de adoção institucional** em diferentes universidades.  
