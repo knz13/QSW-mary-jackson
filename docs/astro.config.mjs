@@ -33,6 +33,15 @@ export default defineConfig({
 						},
 					],
 				},
+				{
+					label: "Fases do Projeto",
+					items: [
+						{
+							label: "Fase 1 - Estabelecimento dos Requisitos",
+							slug: "fases/fase-1",
+						},
+					],
+				},
 			],
 		}),
 	],
